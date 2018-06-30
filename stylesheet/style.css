@@ -5,24 +5,24 @@
 }
 
 body{
-      text-align: center;
-      background: #193549;
-      color: white;
-      font-family: 'helvetica neue', sans-serif;
-      font-weight: 100;
-      font-size: 50px;
-    }
+  text-align: center;
+  background: #193549;
+  color: white;
+  font-family: 'helvetica neue', sans-serif;
+  font-weight: 100;
+  font-size: 50px;
+}
 h2 span{
   color: var(--color);
 }    
-img{
+.img{
   padding: var(--spacing);
   background: var(--color);
   filter: blur(var(--blur));
 }
 .controls{
-      margin-bottom: 50px;
+  margin-bottom: 50px;
     }
 input{
-      width:100px;
-    }
+  width:100px;
+}
